@@ -64,10 +64,8 @@ public class raya3 {
 	
 	
 	ordenador=ganama.maquina(a,b,c,d,e,f,g,h,i);
-	System.out.println (ordenador+"PENE");
 	
 	if((ordenador==1)||(ordenador==2)||(ordenador==3)||(ordenador==4)||(ordenador==5)||(ordenador==6)||(ordenador==7)||(ordenador==8)||(ordenador==9)){
-		System.out.println("CIPOTE");
 	if(ordenador==1){
 			a='O';
 			}else {//cierre del if + else 1
